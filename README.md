@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio page in React.<br>👯 I’m looking for a job as Junior Front end Developer.<br>🌱 I’m currently learning Node.js & Express.<br>💬 Ask me about anything :)<br>⚡ Living in Germany, looking for an opportunities in EU.
+🔭 I’m currently working on Portfolio page in React.<br>👯 I’m looking for a job as Junior Front end Developer.<br>🌱 I’m currently learning Node.js & Express.<br>💬 Ask me about anything :)<br>⚡ Living in Germany, looking for opportunities in EU.
 
 
 ## 🌐 Socials:
