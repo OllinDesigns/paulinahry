@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Fullstack project in small team with other learners.<br>👯 I’m looking for a job as Junior Front end Developer.<br>🌱 I’m currently learning Node.js & Express.<br>💬 Ask me about anything :)<br>⚡ Living in Germany, looking for opportunities in EU.
+🔭 I’m currently learning and improving my JS and React skills.<br>👯 I’m looking for a job as Junior Front end Developer.<<br>⚡ Living in Germany, looking for opportunities in EU.
 
 
 ## 🌐 Socials:
